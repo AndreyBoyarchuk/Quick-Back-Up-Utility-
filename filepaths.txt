@@ -1,2 +1,2 @@
-C:\Users\andre\PycharmProject\TkinterCopyPaste\srcfolder\Kadro Trucking LLC.QBW
-C:\Users\andre\Dropbox (Personal)\Scans
+C:\Users\andre\PycharmProject\TkinterCopyPaste\srcfolder\text.txt
+C:\Users\andre\PycharmProject\TkinterCopyPaste\destination
